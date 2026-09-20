@@ -1,0 +1,16 @@
+{
+  "status": "Illustrative assumptions, not observations or current tariff quotations",
+  "version": "1.0.0",
+  "date": "2026-09-20",
+  "baseline_km_per_year": 10000,
+  "petrol_inr_per_litre": 105,
+  "petrol_km_per_litre": 50,
+  "ev_wall_kwh_per_km": 0.04,
+  "grid_inr_per_kwh": 8,
+  "solar_opportunity_inr_per_kwh": 3,
+  "variable_nonenergy_inr_per_km": 0.5,
+  "time_inr_per_km": 2,
+  "generalized_cost_elasticities": [-0.1, -0.3, -0.5],
+  "impact_intensity_ratios": [0.25, 0.5, 0.75],
+  "distance_increases": [0, 0.25, 0.5, 1, 2, 3]
+}
