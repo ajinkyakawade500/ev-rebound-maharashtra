@@ -1,0 +1,4 @@
+intensity_ratio_q,distance_multiplier_at_break_even,extra_distance_pct_at_break_even
+0.25,4.0,300.0
+0.5,2.0,100.0
+0.75,1.333333333,33.333333333

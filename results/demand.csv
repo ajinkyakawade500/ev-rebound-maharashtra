@@ -1,0 +1,10 @@
+case,elasticity,distance_multiplier,distance_increase_pct,annual_km
+Grid-charged EV,-0.1,1.050148877,5.014887712,10501.488771228
+Grid-charged EV,-0.3,1.158117481,15.81174809,11581.174809048
+Grid-charged EV,-0.5,1.277186624,27.718662448,12771.866244832
+"Solar EV, opportunity cost",-0.1,1.057902526,5.79025258,10579.025258044
+"Solar EV, opportunity cost",-0.3,1.183959815,18.395981484,11839.598148396
+"Solar EV, opportunity cost",-0.5,1.325037807,32.503780732,13250.378073246
+"EV, zero energy cost thought experiment",-0.1,1.062873997,6.287399711,10628.739971123
+"EV, zero energy cost thought experiment",-0.3,1.20072996,20.072995956,12007.299595578
+"EV, zero energy cost thought experiment",-0.5,1.356465997,35.646599663,13564.659966251
