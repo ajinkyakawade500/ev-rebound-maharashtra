@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Please cite the working paper below. This project contains illustrative scenarios, not empirical household estimates."
+title: "EV Rebound in Maharashtra: Working Paper and Reproducible Scenarios"
+authors:
+  - family-names: "Ajinkya"
+version: 1.0.0
+repository-code: "https://github.com/ajinkyakawade500/ev-rebound-maharashtra"
+url: "https://github.com/ajinkyakawade500/ev-rebound-maharashtra"
+date-released: 2026-09-20
+abstract: "A conceptual framework and illustrative analysis of electric two-wheelers, rooftop solar and travel rebound in Maharashtra. Substantial AI assistance is disclosed in AUTHORSHIP.md."
+keywords:
+  - electric two-wheelers
+  - travel rebound
+  - rooftop solar
+  - Maharashtra
+preferred-citation:
+  type: report
+  title: "Low-Cost Electric Mobility and Travel Rebound in Maharashtra: A conceptual framework, illustrative scenarios and a research design for electric two-wheelers and rooftop solar"
+  authors:
+    - family-names: "Ajinkya"
+  year: 2026
+  month: 9
+  version: 1.0.0
+  url: "https://github.com/ajinkyakawade500/ev-rebound-maharashtra"

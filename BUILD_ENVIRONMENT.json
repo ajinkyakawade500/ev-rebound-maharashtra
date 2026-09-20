@@ -1,0 +1,9 @@
+{
+  "python": "3.12",
+  "build_packages": {
+    "matplotlib": "3.10.8",
+    "reportlab": "4.4.9",
+    "Pillow": "12.3.0"
+  },
+  "analysis_dependencies": "Python standard library only"
+}
