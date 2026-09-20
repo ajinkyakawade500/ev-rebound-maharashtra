@@ -1,0 +1,21 @@
+# Source register
+
+Checked on **20 September 2026**. This is a targeted evidence register, not a systematic literature search. Document publication date, online upload date and access date are distinct. Links may later move; DOI links are preferred for papers.
+
+| ID | Source and evidence type | Use in this project | Access scope and limits |
+| --- | --- | --- | --- |
+| R1 | Gillingham, Rapson & Wagner (2016), peer-reviewed conceptual review. [DOI](https://doi.org/10.1093/reep/rev017) | Rebound concepts and the distinction between efficiency and policy interventions. | Publisher metadata and accessible [RFF working-paper overview](https://www.rff.org/publications/working-papers/the-rebound-effect-and-energy-efficiency-policy/) consulted; no Maharashtra coefficient inferred. |
+| R2 | Sorrell, Dimitropoulos & Sommerville (2009), peer-reviewed review. [DOI](https://doi.org/10.1016/j.enpol.2008.11.026) | Direct-rebound literature and methodological context. | Abstract/indexing information and [author institution's bibliographic record](https://sussex.figshare.com/articles/journal_contribution/Empirical_estimates_of_the_direct_rebound_effect_A_review/23330324) consulted. Full text was not available in the retrieved institutional record; no detailed numerical result is imported. |
+| R3 | Shampanier, Mazar & Ariely (2007), original behavioural experiments. [Publisher](https://pubsonline.informs.org/doi/10.1287/mksc.1060.0254) | Motivation for testing responses to perceived free charging. | Publisher abstract and bibliographic details consulted; transport applicability is explicitly untested. |
+| R4 | MERC (2019), regulatory text. [Official PDF](https://www.mahadiscom.in/consumer/wp-content/uploads/2020/01/Grid-Interactive-RRE-Regulations2019-English.pdf) | Capacity/load distinction, net-metering definition and sanctioned-load exemption. | Relevant regulations 2, 6.2 and 11.5 inspected. Historical text, not a consolidated statement of all amendments. |
+| R5 | MERC, order dated 25 March 2026 in Case 75 of 2025. [Official PDF](https://www.mahadiscom.in/wp-content/uploads/2026/07/Tariff-Order_Case-No.-75-of-2025-dated-25th-March-2026.pdf) | Narrow corroboration of the small-load grid-support exemption. | Official 123-page PDF retrieved; paragraphs 21.6-21.14 on pp. 83-84 inspected. URL upload month is July; order date is March. No inference about universal overnight set-off or later litigation. |
+| R6 | MSEDCL I-SMART portal, official scheme information. [Portal](https://portal.mahadiscom.in/ismart/index.php) | Standard residential PM Surya Ghar assistance schedule. | Current scheme section inspected. Legacy subsidy material lower on the page is not used as the current schedule. No individualized eligibility determination. |
+| R7 | MSEDCL circular CE(SPD)/RTS/TFR/20949, 5 July 2024. [Official PDF](https://portal.mahadiscom.in/ismart/media/AUTO%20APPROVAL%2010.pdf) | Deemed feasibility approval and load enhancement up to 10 kW. | Complete one-page circular inspected; not treated as proof of flawless implementation in every case. |
+| R8 | Callaway & Sant'Anna (2021), econometric methodology. [Author manuscript](https://arxiv.org/abs/1803.09015) | Proposed design for staggered adoption. | Author abstract and bibliographic metadata consulted. The method is proposed, not implemented on observations here. |
+| R9 | US EPA, official technical explanation. [Electric Vehicle Myths](https://www.epa.gov/greenvehicles/electric-vehicle-myths) | Distinguishing charging, tailpipe and manufacturing impacts. | Sections on electricity generation and lifecycle impacts consulted. US vehicle estimates are not transferred to Indian two-wheelers. |
+
+## Scope of the calculations
+
+No cited paper supplies the scenario elasticities, travel levels, fuel price, grid price, solar opportunity price, wear cost, time cost or impact ratios. These are explicitly assumed in `analysis/assumptions.json`. The policy material is not used to manufacture a personalized tariff estimate.
+
+The source checks support a conceptual working paper. A publishable empirical article would require deeper literature coverage, independently reviewed data and methods, and updated legal and tariff verification where relevant to its particular sample.
